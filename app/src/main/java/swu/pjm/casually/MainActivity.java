@@ -16,4 +16,7 @@ public class MainActivity extends AppCompatActivity {
 //登录功能
 
     }
+    private void loaddata(){
+//网络获取
+    }
 }
